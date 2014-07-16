@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="b" r="p" v="32"/>
+      <pair l="f" r="p" v="32"/>
+      <pair l="g" r="p" v="57"/>
+      <pair l="h" r="p" v="32"/>
+      <pair l="k" r="p" v="26"/>
+      <pair l="l" r="p" v="45"/>
+      <pair l="p" r="e" v="-32"/>
+      <pair l="p" r="g" v="25"/>
+      <pair l="p" r="h" v="-20"/>
+      <pair l="p" r="j" v="-52"/>
+      <pair l="p" r="l" v="-39"/>
+      <pair l="p" r="t" v="-26"/>
+      <pair l="p" r="v" v="-58"/>
+      <pair l="p" r="y" v="-51"/>
+      <pair l="q" r="p" v="52"/>
+      <pair l="t" r="p" v="45"/>
+      <pair l="u" r="p" v="45"/>
+      <pair l="v" r="p" v="71"/>
+      <pair l="x" r="p" v="26"/>
+      <pair l="y" r="p" v="20"/>
+      <pair l="z" r="p" v="44"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
